@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\kzhang\\AndroidStudioProjects\\AndroidAnt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\nico_launcher.png",
+        "source": "C:\\Users\\kzhang\\AndroidStudioProjects\\AndroidAnt\\app\\src\\main\\res\\mipmap-xxxhdpi\\nico_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kzhang\\AndroidStudioProjects\\AndroidAnt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\kzhang\\AndroidStudioProjects\\AndroidAnt\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
